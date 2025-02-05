@@ -1,0 +1,8 @@
+vendor/
+core/
+profiles/
+sites/
+themes/contrib/
+composer.lock
+/sites/default/files/
+/sites/default/settings.php
